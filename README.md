@@ -9,8 +9,9 @@ sudo snap install snapcraft --classic
 git clone https://github.com/CoolSpot/tastyworks-snap
 cd tastyworks-snap
 snapcraft
-snap install tastyworks-unofficial*.snap
+snap install tastyworks-unofficial*.snap --dangerous
 ```
+"dangerous" flag is necessary above because self-built snap is unsigned.
 
 # Install from snap store
 ```bash
