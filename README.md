@@ -1,6 +1,6 @@
 # TastyWorks-snap
-This is UNOFFICIAL snap for TastyWorks trading platform.
-Latest version of TastyWorks doesn't work on Ubuntu 16.04 LTS .
+This is UNOFFICIAL snap for [TastyWorks trading platform](https://www.tastyworks.com/technology.html).  
+Latest version of TastyWorks doesn't work on Ubuntu 16.04 LTS .  
 This snap brings compatibility with all versions of Ubuntu.
 
 # Build yourself
